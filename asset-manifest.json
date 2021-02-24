@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mi-primer-vez-con-github-classes-sola-11/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/mi-primer-vez-con-github-classes-sola-11/static/js/main.7499ac37.chunk.js",
+    "main.js.map": "/mi-primer-vez-con-github-classes-sola-11/static/js/main.7499ac37.chunk.js.map",
+    "runtime-main.js": "/mi-primer-vez-con-github-classes-sola-11/static/js/runtime-main.dbea32f0.js",
+    "runtime-main.js.map": "/mi-primer-vez-con-github-classes-sola-11/static/js/runtime-main.dbea32f0.js.map",
+    "static/js/2.9c846d3b.chunk.js": "/mi-primer-vez-con-github-classes-sola-11/static/js/2.9c846d3b.chunk.js",
+    "static/js/2.9c846d3b.chunk.js.map": "/mi-primer-vez-con-github-classes-sola-11/static/js/2.9c846d3b.chunk.js.map",
+    "static/js/3.3b3ba64a.chunk.js": "/mi-primer-vez-con-github-classes-sola-11/static/js/3.3b3ba64a.chunk.js",
+    "static/js/3.3b3ba64a.chunk.js.map": "/mi-primer-vez-con-github-classes-sola-11/static/js/3.3b3ba64a.chunk.js.map",
+    "index.html": "/mi-primer-vez-con-github-classes-sola-11/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/mi-primer-vez-con-github-classes-sola-11/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.9c846d3b.chunk.js.LICENSE.txt": "/mi-primer-vez-con-github-classes-sola-11/static/js/2.9c846d3b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mi-primer-vez-con-github-classes-sola-11/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbea32f0.js",
+    "static/js/2.9c846d3b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7499ac37.chunk.js"
+  ]
+}
